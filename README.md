@@ -8,13 +8,15 @@
 
 LibreriaConsoleApp
     |--src/org/javiersian
-        |controller
+        |-- controller
             |---CategoriaController.java
-        |--system
             |---Principal.java
+        |-- system
         |-- view
             |--- Menu Principal.java
             |--- CategoriaView.java
+        |-- util 
+            |--- Conexiom.java
 
 ##Autor
 /Javier Sian | Fundacion Kinal
